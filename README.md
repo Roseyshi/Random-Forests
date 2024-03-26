@@ -1,1 +1,1 @@
-# Random-Forests
+Random Forest is one of the widely used ensemeble methods for prediction. It combines several decision trees (number of estimators) with a maximum depth for each tree. This project aims at identifying how differently number of estimators and maximum depth affects the performance of the model. The project's task is regression therefore I used RMSE and R2_score as the measures of performance. I used sklearn's ensemble class to import the Random Forest Regressor.
